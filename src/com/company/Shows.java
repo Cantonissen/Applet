@@ -15,4 +15,4 @@ public class Shows extends Applet {
         g.drawString ("Antonissen", 90, 60);
     }
 }
-//opdracht 3
+//opdracht3
