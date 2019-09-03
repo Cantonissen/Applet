@@ -10,8 +10,8 @@ public class Shows extends Applet {
 
     public void paint(Graphics g) {
         g.setColor(Color.yellow);
-        g.drawString ("Welcome to Java!!", 50, 60 );
+        g.drawString ("Collin", 50, 60 );
     }
 }
 
-//opdracht 1
+//opdracht 2
