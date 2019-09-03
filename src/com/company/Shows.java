@@ -4,14 +4,15 @@ import java.applet.*;
 public class Shows extends Applet {
 
     public void init ()   {
-        setBackground(Color.blue);
+        setBackground(Color.white);
 
     }
 
     public void paint(Graphics g) {
-        g.setColor(Color.yellow);
+        g.setColor(Color.blue);
         g.drawString ("Collin", 50, 60 );
+        g.setColor(Color.red);
+        g.drawString ("Antonissen", 90, 60);
     }
 }
-
-//opdracht 2
+//opdracht 3
